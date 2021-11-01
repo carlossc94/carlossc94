@@ -1,6 +1,6 @@
 # 👋🏻 &nbsp;&nbsp;Hi there, I am Israel
 
-<img src="https://github.com/carlossc94/carlossc94/blob/main/BannerISC.png" alt="banner" />&nbsp;&nbsp;
+<img src="https://github.com/carlossc94/carlossc94/blob/main/BannerISC_V2.png" alt="banner" />&nbsp;&nbsp;
 
 I'm a software development engineer who is passionate about technology. Some technologies I enjoy working include PHP, C#, Ruby and Python. I have worked on projects with Agile methodologies. I enjoy backend but i know some tecnologies in frontend like JavaScript (React, Angular, Vue)
 
